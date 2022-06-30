@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/potcharapon sukolsakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="potcharapon sukolsakul" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huadoorzaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="potcharapon sukolsakul" height="30" width="40" /></a>
 <a href="https://instagram.com/pxtcharapxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pxtcharapxn" height="30" width="40" /></a>
 </p>
 
