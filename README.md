@@ -1,11 +1,3 @@
-<img align="right" alt="Coding"width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA">
-
-- 🌱 I’m currently learning **REACT NATIVE**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **patt502090@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/huadoorzaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="potcharapon sukolsakul" height="30" width="40" /></a>
