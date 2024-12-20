@@ -9,5 +9,5 @@
 
 <div style="text-align: center;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=patt502090&show_icons=true&locale=en" alt="patt502090" /> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patt502090&theme=panda&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patt502090&theme=catppuccin-macchiato&hide_border=true" alt="GitHub Streak" /></a>
 </div>
