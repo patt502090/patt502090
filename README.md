@@ -4,5 +4,6 @@
 </div>
 
 <div align="center">
-![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
+  
+ ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
 </div>
