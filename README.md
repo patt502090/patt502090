@@ -7,3 +7,7 @@
   ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
 </div>
 -->
+
+Hi, I’m Phodcharaphon Sukonsakun (Patt)
+Computer Engineering @ Prince of Songkla University
+
