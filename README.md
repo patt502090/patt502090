@@ -1,6 +1,8 @@
 <!--
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=patt502090&theme=catppuccin-macchiato&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=patt502090&theme=catppuccin-macchiato&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
@@ -8,6 +10,9 @@
 </div>
 -->
 
-- Hi, I’m Phodcharaphon Sukonsakun (Patt)
+---
+
+- Hi, I’m Phodcharaphon Sukonsakun (Patt)  
 - Computer Engineering @ Prince of Songkla University
 
+---
