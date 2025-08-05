@@ -12,7 +12,7 @@
 
 <!-- Profile View Counter -->
 
-![Fake Views](https://komarev.com/ghpvc/?username=torvalds&style=flat-square&color=red&label=Profile+Views:+9999999)
+![Fake Views](https://komarev.com/ghpvc/?username=torvalds&style=flat-square&color=red&label=Profile+Views:+76905)
 
 - Hi, I’m Phodcharaphon Sukonsakun (Patt)  
 - Computer Engineering @ Prince of Songkla University
