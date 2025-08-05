@@ -11,9 +11,9 @@
 -->
 
 <!-- Profile View Counter -->
-<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+
 
 - Hi, I’m Phodcharaphon Sukonsakun (Patt)  
 - Computer Engineering @ Prince of Songkla University
