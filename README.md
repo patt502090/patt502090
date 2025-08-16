@@ -11,7 +11,7 @@
 -->
 <!-- Profile View Counter -->
 
-<img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=red&label=Profile+Views:+279,905+" />
+<img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=red&label=Profile+Views:+179,905+" />
 
 
 - Hi, I’m Phodcharaphon Sukonsakun (Patt)  
