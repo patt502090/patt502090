@@ -1,4 +1,4 @@
-
+<!--
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=patt502090&theme=catppuccin-macchiato&hide_border=true" alt="GitHub Streak" />
