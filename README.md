@@ -5,10 +5,20 @@
   </a>
 </div> -->
 
+## 🐍 My Contributions
 
 <div align="center">
-  ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/patt502090/patt502090/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+<hr>
+<!-- <div align="center">
+  ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
+</div> -->
 
 <!-- Profile View Counter -->
 
