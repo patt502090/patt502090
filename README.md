@@ -37,9 +37,7 @@
 <p align="center">
 <a href="https://www.instagram.com/pxtcharapxn12"><img src="https://img.shields.io/badge/pxtcharapxn12-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://x.com/godpattz"><img src="https://img.shields.io/badge/godpattz-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="mailto:patt502090@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
+<a href="mailto:patt502090@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.facebook.com/patt502090/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 
