@@ -22,10 +22,30 @@
 
 <!-- Profile View Counter -->
 
-<img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=red&label=Profile+Views:+179,905+" />
+<!-- <img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=red&label=Profile+Views:+179,905+" />
 
 
 - Hi, I’m Phodcharaphon Sukonsakun (Patt)  
 - Computer Engineering @ Prince of Songkla University
+ -->
+
+ <h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Phodcharaphon Sukonsakun's profile.
+</h3>
+
+<p align="center">
+<a href="https://www.instagram.com/pxtcharapxn12"><img src="https://img.shields.io/badge/pxtcharapxn12-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://x.com/godpattz"><img src="https://img.shields.io/badge/godpattz-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="mailto:borworntat.d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://facebook.com/borworntat.d"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Borworntat-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white">
+</p>
+
+## :computer:	Position
+- Student at [Chulalongkorn University](https://www.chula.ac.th/) (Computer Engineering)
+- Problem writer of [IOI Thailand Task Team](https://thailand-oi-task-team.github.io/)
+- Developer of [programming.in.th](https://programming.in.th)
+- Frontend Developer of [ISD SGCU](https://github.com/isd-sgcu)
 
 
