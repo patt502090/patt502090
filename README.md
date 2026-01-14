@@ -41,6 +41,5 @@
 <a href="https://www.facebook.com/patt502090/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </p>
 
-## 💼 Position
-- Undergraduate Student, Computer Engineering  
-  Prince of Songkla University (PSU)
+## :computer: Position 
+  - Student at [Prince of Songkla University](https://www.psu.ac.th/en/) (Computer Engineering)
