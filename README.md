@@ -8,7 +8,6 @@
 ## 🐍 My Contributions
 
 <div align="center">
-  ## My Contribution Graph
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/pacman-contribution-graph.svg">
