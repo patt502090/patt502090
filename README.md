@@ -9,18 +9,11 @@
 
 <div align="center">
   ## My Contribution Graph
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/patt502090/patt502090/output/pacman-contribution-graph.svg">
 </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/patt502090/patt502090/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 <hr>
@@ -28,7 +21,12 @@
   ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
 </div> -->
 
-<!-- Profile View Counter -->
+<!-- Profile View Counter
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patt502090/patt502090/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/patt502090/patt502090/output/github-contribution-grid-snake.svg" />
+  </picture>-->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=patt502090&style=flat-square&color=red&label=Profile+Views:+179,905+" />
 
