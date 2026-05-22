@@ -5,7 +5,7 @@
   </a>
 </div> -->
 
-## 🐍 My Contributions
+<!--## 🐍 My Contributions
 
 <div align="center">
 <picture>
@@ -15,7 +15,7 @@
 </picture>
 </div>
 
-<hr>
+<hr>-->
 <!-- <div align="center">
   ![snake gif](https://github.com/patt502090/patt502090/blob/output/github-snake-dark.svg)
 </div> -->
